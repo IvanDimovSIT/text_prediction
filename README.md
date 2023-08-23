@@ -1,2 +1,2 @@
-# A text prediction program.
+# A text prediction program
 Enter sample text in text.txt
